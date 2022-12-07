@@ -1,0 +1,12 @@
+{
+  "name": "Loxi",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "@badrap/result": "^0.2.13"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "ts-node": "^10.9.1"
+  }
+}
